@@ -6,7 +6,7 @@ class BasicTests {
 
 	@Test
 	void testSomething() {
-		assert 3 == 3
+		assert 3 == 4
 	}
 
 }
