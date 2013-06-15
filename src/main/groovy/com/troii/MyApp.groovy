@@ -7,7 +7,7 @@ class MyApp {
 	}
 
 	def doSomething() {
-		println 'something'
+		println 'something else'
 	}
 
 }
