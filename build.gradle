@@ -1,0 +1,12 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = "com.troii.MyApp"
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compile 'org.codehaus.groovy:groovy-all:2.1.5'
+}
